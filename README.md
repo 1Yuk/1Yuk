@@ -7,7 +7,7 @@ Además, puedo agregar que la habilidad de aprender rápido puede ser muy valios
 
 ### HABILIDADES
 
-![html](https://img.shields.io/badge/HTML-ff4d4d?style=for-the-badge&logo=appveyor=html&logoColor=white&labelColor=101010) ![css](https://img.shields.io/badge/CSS-4d7aff?style=for-the-badge&logo=appveyor=html&logoColor=white&labelColor=101010) ![javascript](https://img.shields.io/badge/JAVASCRIPT-ffff00?style=for-the-badge&logo=appveyor=html&logoColor=white&labelColor=101010) ![bootstrap](https://img.shields.io/badge/BOOTSTRAP-3655b3?style=for-the-badge&logo=appveyor=html&logoColor=white&labelColor=101010) ![sass](https://img.shields.io/badge/SASS-ff6680?style=for-the-badge&logo=appveyor=html&logoColor=white&labelColor=101010)
+![html](https://img.shields.io/badge/HTML-ff4d4d?style=for-the-badge&logo=appveyor=html&logoColor=white&labelColor=101010) ![css](https://img.shields.io/badge/CSS-4d7aff?style=for-the-badge&logo=appveyor=html&logoColor=white&labelColor=101010) ![javascript](https://img.shields.io/badge/JAVASCRIPT-ffff00?style=for-the-badge&logo=appveyor=html&logoColor=white&labelColor=101010) ![bootstrap](https://img.shields.io/badge/BOOTSTRAP-8a2be2?style=for-the-badge&logo=appveyor=html&logoColor=white&labelColor=101010) ![sass](https://img.shields.io/badge/SASS-ff6680?style=for-the-badge&logo=appveyor=html&logoColor=white&labelColor=101010)
 
 
 - 🌱 Estoy aprendiendo Actualmente estoy estudiando en Platzi 
