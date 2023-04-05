@@ -8,13 +8,12 @@ Además, puedo agregar que la habilidad de aprender rápido puede ser muy valios
 
 ### HABILIDADES
 
-![html](https://img.shields.io/badge/HTML-4d7aff?style=for-the-badge&logo=appveyor)
-![css](https://img.shields.io/badge/CSS-#4d7aff?style=for-the-badge&logo=appveyor)
+![html](https://img.shields.io/badge/HTML-4d7aff?style=for-the-badge&logo=appveyor=html&logoColor=white&labelColor=101010)
+![css](https://img.shields.io/badge/CSS-4d7aff?style=for-the-badge&logo=appveyor)
 ![javascript](https://img.shields.io/badge/JAVASCRIPT-ffff4d?style=for-the-badge&logo=appveyor)
 
 - 🌱 Estoy aprendiendo Actualmente estoy estudiando en Platzi 
 - 📫 Cómo contactarme: **🡿** 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/1Yuk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/enzo-mansilla-714276257//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/enzokxz//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Yuukh_)  
 
