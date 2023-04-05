@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Enzo
 #### Soy desarrollador frontend💻
-![Soy desarrollador frontend💻](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Soy desarrollador frontend💻]
 
 Me destaco por ser una persona que puede aprender muy rápido, ya sea en programación o cosas cotidianas de la vida. Mayormente, intento dar lo mejor de mí. 
 
@@ -8,9 +8,9 @@ Además, puedo agregar que la habilidad de aprender rápido puede ser muy valios
 
 ### HABILIDADES
 
-![HTML](https://img.shields.io/badge/HTML-ff0000?style=for-the-badge&logo=appveyor)
-![CSS](https://img.shields.io/badge/CSS-0040ff?style=for-the-badge&logo=appveyor)
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-ffff00?style=for-the-badge&logo=appveyor)
+![html](https://img.shields.io/badge/HTML-4d7aff?style=for-the-badge&logo=appveyor)
+![css](https://img.shields.io/badge/CSS-#4d7aff?style=for-the-badge&logo=appveyor)
+![javascript](https://img.shields.io/badge/JAVASCRIPT-ffff4d?style=for-the-badge&logo=appveyor)
 
 - 🌱 Estoy aprendiendo Actualmente estoy estudiando en Platzi 
 - 📫 Cómo contactarme: **🡿** 
